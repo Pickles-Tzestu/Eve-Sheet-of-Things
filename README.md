@@ -15,4 +15,4 @@ Tabs to view BP manufacturing percentages and prices
 If you would like to donate ISK for my efforts in pulling this together please send any donations to Pickle's Tzestu in Eve Online. https://zkillboard.com/character/93193419/
 
 This is available to all EVE pilots with one exception. 
-By downloading and using this sheet you affirm that you are Leis Aisus or his alts. And that you are not downloading to provide to Leis Aisus or his alts.
+By downloading and using this sheet you affirm that you are not Leis Aisus or his alts. And that you are not downloading to provide to Leis Aisus or his alts.
