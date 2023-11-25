@@ -1,5 +1,6 @@
 # Eve-Sheet-of-Things
-Happy to announce the first installation of the publicly available Pickle's EveOnline Sheet of Things!
+Happy to announce the release the publicly available Pickle's EveOnline Sheet of Things! Currently in version 1.1.5!
+
 Please feel free to upgrade, modify, make better to fit your needs and goals in EVE!
 
 Some assembly required, You will need the Eve Online Excel Addon and you will need to log into your character for this to work. Instructions on how to install and log in can be found here: https://support.eveonline.com/hc/en-us/articles/8165207770524-EVE-Online-Excel-Add-in
