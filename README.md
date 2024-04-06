@@ -1,5 +1,5 @@
 # Eve-Sheet-of-Things
-Happy to announce the release the publicly available Pickle's EveOnline Sheet of Things! Currently in version 1.2! Please find the latest version here: [https://github.com/Pickles-Tzestu/Eve-Sheet-of-Things/blob/main/Pickle's%20EveOnline%20Sheet%20of%20Things%20V1.1.5.xlsx](https://github.com/Pickles-Tzestu/Eve-Sheet-of-Things/blob/main/Pickle's%20EveOnline%20Sheet%20of%20Things%20V1.2.xlsx)
+Happy to announce the release the publicly available Pickle's EveOnline Sheet of Things! Currently in version 1.2! Please find the latest version here: https://github.com/Pickles-Tzestu/Eve-Sheet-of-Things/blob/main/Pickle's%20EveOnline%20Sheet%20of%20Things%20V1.2.xlsx
 
 Please feel free to upgrade, modify, make better to fit your needs and goals in EVE!
 
